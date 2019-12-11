@@ -1,0 +1,3 @@
+Main-Class: InfraRedApp
+Class-Path: ./lib/jar/opencv-401.jar
+
